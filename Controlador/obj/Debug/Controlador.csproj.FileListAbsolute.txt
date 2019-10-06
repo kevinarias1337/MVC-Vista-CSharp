@@ -1,0 +1,9 @@
+D:\MVC(VISTA)\Controlador\bin\Debug\Controlador.dll
+D:\MVC(VISTA)\Controlador\bin\Debug\Controlador.pdb
+D:\MVC(VISTA)\Controlador\bin\Debug\Modelo.dll
+D:\MVC(VISTA)\Controlador\bin\Debug\Modelo.pdb
+D:\MVC(VISTA)\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+D:\MVC(VISTA)\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+D:\MVC(VISTA)\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+D:\MVC(VISTA)\Controlador\obj\Debug\Controlador.dll
+D:\MVC(VISTA)\Controlador\obj\Debug\Controlador.pdb

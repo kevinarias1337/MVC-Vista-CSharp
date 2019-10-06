@@ -1,0 +1,15 @@
+D:\MVC(VISTA)\MVC(VISTA)\bin\Debug\MVC(VISTA).exe.config
+D:\MVC(VISTA)\MVC(VISTA)\bin\Debug\MVC(VISTA).exe
+D:\MVC(VISTA)\MVC(VISTA)\bin\Debug\MVC(VISTA).pdb
+D:\MVC(VISTA)\MVC(VISTA)\bin\Debug\Controlador.dll
+D:\MVC(VISTA)\MVC(VISTA)\bin\Debug\Modelo.dll
+D:\MVC(VISTA)\MVC(VISTA)\bin\Debug\Controlador.pdb
+D:\MVC(VISTA)\MVC(VISTA)\bin\Debug\Modelo.pdb
+D:\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).csprojAssemblyReference.cache
+D:\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC_VISTA_.Form1.resources
+D:\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC_VISTA_.Properties.Resources.resources
+D:\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).csproj.GenerateResource.cache
+D:\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).csproj.CoreCompileInputs.cache
+D:\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).csproj.CopyComplete
+D:\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).exe
+D:\MVC(VISTA)\MVC(VISTA)\obj\Debug\MVC(VISTA).pdb
